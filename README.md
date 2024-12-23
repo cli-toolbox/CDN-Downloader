@@ -1,6 +1,6 @@
 # CDN Asset Finder and Downloader
 
-A bash script that finds and downloads CDN-hosted assets from your project files. It identifies assets from major CDN providers, checks their availability, and organizes downloads by vendor.
+Utility script that finds and downloads CDN-hosted assets from your project files. It identifies assets from major CDN providers, checks their availability, and organizes downloads by vendor.
 
 ## Description
 
